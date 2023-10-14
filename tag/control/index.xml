@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Control | Academic</title>
-    <link>https://example.com/tag/control/</link>
-      <atom:link href="https://example.com/tag/control/index.xml" rel="self" type="application/rss+xml" />
+    <title>Control | CHENLONG ZHANG</title>
+    <link>https://cheslee_z.github.io/tag/control/</link>
+      <atom:link href="https://cheslee_z.github.io/tag/control/index.xml" rel="self" type="application/rss+xml" />
     <description>Control</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cheslee_z.github.io/media/icon_hubba46e3d3767d003e8be109603bddafb_79244_512x512_fill_lanczos_center_3.png</url>
       <title>Control</title>
-      <link>https://example.com/tag/control/</link>
+      <link>https://cheslee_z.github.io/tag/control/</link>
     </image>
     
     <item>
       <title>Longitudinal control of fixed-wing UAV based on total energy control and active disturbance rejection control</title>
-      <link>https://example.com/project/ladrc_tec/</link>
+      <link>https://cheslee_z.github.io/project/ladrc_tec/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ladrc_tec/</guid>
+      <guid>https://cheslee_z.github.io/project/ladrc_tec/</guid>
       <description>&lt;p&gt;We explore the transformation between the energy states and the control actuators, and improve the basic architecture of TEC in conjunction with Linear Active Disturbance Rejection Control (LADRC) for stronger robustness. And the superiority of the designed control scheme, which is subsequently called LADRC-TEC, is demonstrated by comparison with the classical TEC scheme.&lt;/p&gt;
 </description>
     </item>
